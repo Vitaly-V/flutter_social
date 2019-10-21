@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "293892347752",
+    "firebase_url": "https://vitalii-flutter-social.firebaseio.com",
+    "project_id": "vitalii-flutter-social",
+    "storage_bucket": "vitalii-flutter-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293892347752:android:aed38bd75f35d1a57468dd",
+        "android_client_info": {
+          "package_name": "com.vitaliivyrodov.fluttersocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293892347752-8hr1fq73vgh9cq7lvv8bhoggant3tfs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitaliivyrodov.fluttersocial",
+            "certificate_hash": "d94438910962b96399bb9e433ddf323b5fb52da7"
+          }
+        },
+        {
+          "client_id": "293892347752-qs2qttotacpeaofk9uc7g0mvr0bmc4bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBf4veRq3pi-thnbsl8TAB2PRiyBwW-wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293892347752-qs2qttotacpeaofk9uc7g0mvr0bmc4bt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293892347752-ojorekkbpjc4fi4vlaqvfilovn103h84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vitaliivyrodov.fluttersocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
