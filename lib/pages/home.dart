@@ -40,6 +40,7 @@ class _HomeState extends State<Home> {
               ),
             ),
             GestureDetector(
+              onTap: () => print('tapped'),
               child: Container(
                 width: 260,
                 height: 60,
